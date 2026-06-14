@@ -30,7 +30,7 @@ A full-stack personal finance management application that helps users track inco
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/finance-tracker.git
+git clone https://github.com/Diginewgen/finance-tracker.git
 cd finance-tracker
 npm install
 npm start
